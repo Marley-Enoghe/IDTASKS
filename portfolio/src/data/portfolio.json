@@ -1,0 +1,23 @@
+{
+    "portfolio": [
+
+    {
+"cover": "/portfolio/portfolio/portfolio.png",
+"title":"This portfolio",
+"description": "Built with React-JS, JavaScript, SASS, Css, Animation",
+"url": "https://marley-enoghe.netlify.app/"
+    }  ,
+        {
+"cover": "/portfolio/tulahautos/cover.png",
+"title":"TulahAutos",
+"description": " Built with HTML, CSS, and JavaScript",
+"url": "https://tulahautos.netlify.app/"
+    }  ,
+           {
+"cover": "/portfolio/morgage-calculator/morgage-calculator.png",
+"title":"Morgage-Calculator",
+"description": " Built with React-JS, Material-UI and JavaScript",
+"url": "https://morgage-calculator.netlify.app/"
+    } 
+  ]
+}
